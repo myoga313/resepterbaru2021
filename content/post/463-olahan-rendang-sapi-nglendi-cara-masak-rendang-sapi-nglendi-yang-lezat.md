@@ -1,0 +1,143 @@
+---
+description: "Olahan Rendang Sapi Nglendi | Cara Masak Rendang Sapi Nglendi Yang Lezat"
+title: "Olahan Rendang Sapi Nglendi | Cara Masak Rendang Sapi Nglendi Yang Lezat"
+slug: 463-olahan-rendang-sapi-nglendi-cara-masak-rendang-sapi-nglendi-yang-lezat
+date: 2020-10-23T00:53:05.251Z
+image: https://img-global.cpcdn.com/recipes/c5ef07a3b466ab23/751x532cq70/rendang-sapi-nglendi-foto-resep-utama.jpg
+thumbnail: https://img-global.cpcdn.com/recipes/c5ef07a3b466ab23/751x532cq70/rendang-sapi-nglendi-foto-resep-utama.jpg
+cover: https://img-global.cpcdn.com/recipes/c5ef07a3b466ab23/751x532cq70/rendang-sapi-nglendi-foto-resep-utama.jpg
+author: Hannah Fletcher
+ratingvalue: 4.3
+reviewcount: 4
+recipeingredient:
+- " daging sapi 40 slices"
+- " santan dari 2 butir kelapa yg tua"
+- " serai"
+- " lengkuas"
+- " jahe"
+- " kayu manis"
+- " ladaku merica bubuk"
+- " daun kunyit"
+- " daun salam"
+- " daun jeruk purut"
+- " kemiri"
+- " lawang"
+- " garam"
+- " minyak goreng"
+- " Bumbu Kering"
+- " kapulaga"
+- " jinten"
+- " pala"
+- " ketumbar boleh bubuk"
+- " Bumbu Basah 1"
+- " siung150 gr bawang merah"
+- " bawang putih"
+- " Bumbu Basah 2"
+- " cabai merah keriting yg dihilangkan isinya"
+- " cabai merah keriting agak layu"
+- " Bahan Sareh"
+- " Parutan 1 butir kelapa sedang tidak tua tidak muda"
+recipeinstructions:
+- "Pertama, buat bumbu sareh terlebih dahulu. Bumbu sareh adalah bumbu nglendi yg ada di rendang. Dibuat dari parutan 1 butir kelapa yg sedang kemudian sangrai kelapa, dan ketika sudah coklat masak, tumbuk/haluskan sampai mengeluarkan minyak. Sisihkan/simpan terlebih dahulu. Langkah ini membutuhkan waktu yg cukup lama."
+- "Masukkan daging ke freezer, bekukan agar mudah utk dipotong tipis sesuai bentuk rendang yg diinginkan. Potong berlawanan serat agar daging empuk ketika dimasak. Cuci. Kemudian tiriskan. Sisihkan terlebih dahulu"
+- "Siapkan 2 liter air untuk memeras parutan 2 butir kelapa yg tua. Biarkan kental. Sisihkan/simpan terlebih dahulu."
+- "Haluskan bumbu basah 1 (bawang merah dan bawang putih). Boleh menggunakan blender/alat penghalus khusus. Tapi lebih enak diuleg. Sisihkan. Serai, laos, jahe, digeprek halus."
+- "Uleg bumbu kering: Kemiri disangrai terlebih dahulu, kemudian haluskan/uleg. Uleg ketumbar, kalulaga, jinten, ladaku (merica bubuk), dan kapulaga. Sisihkan"
+- "Haluskan bumbu halus 2 = cabai merah keriting (150 cabai segar yg dihilangkan bijinya, dan 150 cabai agak layu yg dijemur terlebih dahulu selama 4-6 jam tanla dihilangkan bijinya). Boleh dihaluskan dengan blender atau alat khusus lainnya. Disarankan uleg saja supaya rasanya lebih enak. Sisihkan."
+- "Panaskan minyak goreng. Pertama, tumis bawang merah yg sudah dihaluskan, tunggu sampai harum dan matang. Kemudian baru masukkan bawang putih yg sudah dihaluskan."
+- "Masukkan kemiri sangrai yg sudah dihaluskan, jahe, laos, serai, daun kunyit, daun salam. Tumis sampai matang agar bumbu tidak bau mentah."
+- "Masukkan cabai yg sudah dihaluskan. Aduk sampai matang. Masukkan bumbu kering (kapulaga+jinten+ketumbar halus), pala, buah lawang, kayu manis. Tumis matang. Harus matang"
+- "Masukkan daging ke wajan. Aduk dalam tumisan sampai merata. Aduk sampai daging 1/4 matang."
+- "Masukkan 2 liter santan. Aduk terus. Tunggu agak mendidih. Masukkan bumbu sareh yg sudah dihaluskan. Tambahkan 2 sdm garam. Untuk membuat rendang, tidak perlu ditambah kaldu atau penyedap rasa apapun ya :)"
+- "Panaskan dengan api kecil. Tunggu beberapa jam sampai kuah menyusut."
+- "Koreksi rasa. Masukkan 3-5 lembar daun jeruk. Diamkan kembali beberapa waktu."
+- "Bila kuah sudah menyusut, koreksi rasa. Daging dijamin empuk, ya Bunda. Bila sudah sesuai selera, segera hidangkan. Makanan ini awet dan bisa dipaketkan ke luar kota. Jadi bisa dikirimkan untuk orang-orang tersayang. Selamat mencoba :)"
+categories:
+- Resep
+tags:
+- rendang
+- sapi
+- nglendi
+
+katakunci: rendang sapi nglendi 
+nutrition: 246 calories
+recipecuisine: Indonesian
+preptime: "PT12M"
+cooktime: "PT30M"
+recipeyield: "4"
+recipecategory: Dinner
+
+---
+
+
+![Rendang Sapi Nglendi](https://img-global.cpcdn.com/recipes/c5ef07a3b466ab23/751x532cq70/rendang-sapi-nglendi-foto-resep-utama.jpg)
+
+
+rendang sapi nglendi ini merupakan santapan nusantara yang ekslusif dan perlu untuk kita coba. Cita rasanya yang lezat membuat siapa pun menantikan kehadirannya di meja makan.
+Anda sedang mencari ide resep rendang sapi nglendi untuk jualan atau dikonsumsi sendiri yang Enak Dan Lezat? Cara menyiapkannya memang tidak terlalu sulit namun tidak gampang juga. misalnya salah mengolah maka hasilnya Tidak Memuaskan dan bahkan tidak sedap. Padahal rendang sapi nglendi yang enak seharusnya mempunyai aroma dan rasa yang bisa memancing selera kita.
+
+
+
+Ada beberapa hal yang sedikit banyak berpengaruh terhadap kualitas rasa dari rendang sapi nglendi, mulai dari jenis bahan, kedua pemilihan bahan segar sampai cara membuat dan menghidangkannya. Tak perlu pusing kalau mau menyiapkan rendang sapi nglendi enak di mana pun anda berada, karena asal sudah tahu triknya maka hidangan ini bisa menjadi sajian spesial.
+
+
+Nah, kali ini kita coba, yuk, buat rendang sapi nglendi sendiri di rumah. Tetap dengan bahan sederhana, hidangan ini bisa memberi manfaat dalam membantu menjaga kesehatan tubuhmu sekeluarga. Anda dapat menyiapkan Rendang Sapi Nglendi menggunakan 27 jenis bahan dan 14 langkah pembuatan. Berikut ini langkah-langkah dalam membuat hidangannya.
+
+<!--inarticleads1-->
+
+##### Bahan-bahan dan bumbu yang diperlukan dalam pembuatan Rendang Sapi Nglendi:
+
+1. Siapkan  daging sapi (+-40 slices)
+1. Siapkan  santan dari 2 butir kelapa yg tua
+1. Sediakan  serai
+1. Gunakan  lengkuas
+1. Siapkan  jahe
+1. Gunakan  kayu manis
+1. Siapkan  ladaku (merica bubuk)
+1. Gunakan  daun kunyit
+1. Siapkan  daun salam
+1. Ambil  daun jeruk purut
+1. Sediakan  kemiri
+1. Sediakan  lawang
+1. Gunakan  garam
+1. Sediakan  minyak goreng
+1. Ambil  Bumbu Kering
+1. Siapkan  kapulaga
+1. Ambil  jinten
+1. Gunakan  pala
+1. Siapkan  ketumbar (boleh bubuk)
+1. Gunakan  Bumbu Basah 1
+1. Sediakan  siung/150 gr bawang merah
+1. Siapkan  bawang putih
+1. Siapkan  Bumbu Basah 2
+1. Siapkan  cabai merah keriting (yg dihilangkan isinya)
+1. Siapkan  cabai merah keriting (agak layu)
+1. Ambil  Bahan Sareh
+1. Siapkan  Parutan 1 butir kelapa sedang (tidak tua tidak muda)
+
+
+
+
+<!--inarticleads2-->
+
+##### Cara membuat Rendang Sapi Nglendi:
+
+1. Pertama, buat bumbu sareh terlebih dahulu. Bumbu sareh adalah bumbu nglendi yg ada di rendang. Dibuat dari parutan 1 butir kelapa yg sedang kemudian sangrai kelapa, dan ketika sudah coklat masak, tumbuk/haluskan sampai mengeluarkan minyak. Sisihkan/simpan terlebih dahulu. Langkah ini membutuhkan waktu yg cukup lama.
+1. Masukkan daging ke freezer, bekukan agar mudah utk dipotong tipis sesuai bentuk rendang yg diinginkan. Potong berlawanan serat agar daging empuk ketika dimasak. Cuci. Kemudian tiriskan. Sisihkan terlebih dahulu
+1. Siapkan 2 liter air untuk memeras parutan 2 butir kelapa yg tua. Biarkan kental. Sisihkan/simpan terlebih dahulu.
+1. Haluskan bumbu basah 1 (bawang merah dan bawang putih). Boleh menggunakan blender/alat penghalus khusus. Tapi lebih enak diuleg. Sisihkan. Serai, laos, jahe, digeprek halus.
+1. Uleg bumbu kering: Kemiri disangrai terlebih dahulu, kemudian haluskan/uleg. Uleg ketumbar, kalulaga, jinten, ladaku (merica bubuk), dan kapulaga. Sisihkan
+1. Haluskan bumbu halus 2 = cabai merah keriting (150 cabai segar yg dihilangkan bijinya, dan 150 cabai agak layu yg dijemur terlebih dahulu selama 4-6 jam tanla dihilangkan bijinya). Boleh dihaluskan dengan blender atau alat khusus lainnya. Disarankan uleg saja supaya rasanya lebih enak. Sisihkan.
+1. Panaskan minyak goreng. Pertama, tumis bawang merah yg sudah dihaluskan, tunggu sampai harum dan matang. Kemudian baru masukkan bawang putih yg sudah dihaluskan.
+1. Masukkan kemiri sangrai yg sudah dihaluskan, jahe, laos, serai, daun kunyit, daun salam. Tumis sampai matang agar bumbu tidak bau mentah.
+1. Masukkan cabai yg sudah dihaluskan. Aduk sampai matang. Masukkan bumbu kering (kapulaga+jinten+ketumbar halus), pala, buah lawang, kayu manis. Tumis matang. Harus matang
+1. Masukkan daging ke wajan. Aduk dalam tumisan sampai merata. Aduk sampai daging 1/4 matang.
+1. Masukkan 2 liter santan. Aduk terus. Tunggu agak mendidih. Masukkan bumbu sareh yg sudah dihaluskan. Tambahkan 2 sdm garam. Untuk membuat rendang, tidak perlu ditambah kaldu atau penyedap rasa apapun ya :)
+1. Panaskan dengan api kecil. Tunggu beberapa jam sampai kuah menyusut.
+1. Koreksi rasa. Masukkan 3-5 lembar daun jeruk. Diamkan kembali beberapa waktu.
+1. Bila kuah sudah menyusut, koreksi rasa. Daging dijamin empuk, ya Bunda. Bila sudah sesuai selera, segera hidangkan. Makanan ini awet dan bisa dipaketkan ke luar kota. Jadi bisa dikirimkan untuk orang-orang tersayang. Selamat mencoba :)
+
+
+
+
+Bagaimana? Mudah bukan? Itulah cara membuat rendang sapi nglendi yang bisa Anda lakukan di rumah. Semoga bermanfaat dan selamat mencoba!
