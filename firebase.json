@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "resepterbaru2021",
+  "site": "resepterbaru2021",
     "public": "public",
     "ignore": [
       "firebase.json",
